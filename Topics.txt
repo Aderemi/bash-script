@@ -1,0 +1,34 @@
+- Mathematical Calculations
+        - Write subtract.sh a b script DONE
+        - Write Divide a b script DONE
+        - Write add.sh a... script DONE
+        - Write multiply.sh a... script DONE
+        - Write squareRoot.sh a script
+        - Write findBinary.sh script
+        - Write calculator.sh that combine everything together
+
+- String Manipulation
+        - Write concatenate.sh a... script
+        - Write split.sh str position...  delimiter script
+        - Write isPalindromic.sh str script
+        - Write reverse string script
+        - Write c-like format script
+
+- File Management (No Sed, No awk)
+        - Write fileReader.sh filename script
+        - Write csvParser.sh csvFile script
+        - Write csvToTsvConverter.sh csvFile tsvFile script
+        - Write csvColumnSearcher.sh csvFile columnName needle script
+
+- Date Management
+        - Write ago.sh pastDate format[default, seconds, minutes, hours, days, weeks, months, years]
+
+- SED command
+        - Rewrite File Management[4] with sed command
+        - Rename all .txt to current date plus a random number
+        - Implement CRUD on csv
+
+- AWK command
+        - Implement Where Between(Retrieval) on csv
+
+

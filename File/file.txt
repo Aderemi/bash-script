@@ -1,0 +1,5 @@
+my simple file
+for consumption by bash
+for consumption by bash
+or any other scripting language
+or any other scripting language
